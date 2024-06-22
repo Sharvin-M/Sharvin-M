@@ -1,5 +1,5 @@
 
-<h1 align="center" style="display: inline-block">Hi I'm Sharvin 👋</h1>
+<h1 align="center" style="display: inline-block">Hi, I'm Sharvin!</h1>
 
 
 <!--tech stack icons-->
