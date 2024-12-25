@@ -5,7 +5,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,js,git,react,fastapi,flask,postgresql,aws,terraform,docker,linux,grafana,opencv" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,js,git,postgresql,aws,linux" />
   </a>
 </p>
 
